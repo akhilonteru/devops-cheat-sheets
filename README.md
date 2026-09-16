@@ -25,6 +25,4 @@ A complete collection of command references for DevOps engineers, in the style o
 Each file is standalone Markdown — view on GitHub, in your editor, or convert to PDF/HTML with any Markdown tool. All commands are copy-paste ready.
 
 ## Sources
-
-- Docker file adapted from [docker.how](https://docker.how/)
 - All other files compiled from official documentation and standard tooling references
